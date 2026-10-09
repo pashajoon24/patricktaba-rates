@@ -1,16 +1,11 @@
 {
  "source": "Freddie Mac Primary Mortgage Market Survey",
- "week": "2026-10-01",
- "rate30": 7.28,
- "rate30_prev": 7.03,
- "rate15": 6.6,
- "rate15_prev": 6.42,
+ "week": "2026-10-08",
+ "rate30": 7.4,
+ "rate30_prev": 7.28,
+ "rate15": 6.73,
+ "rate15_prev": 6.6,
  "history": [
-  [
-   "2025-10-02",
-   6.34,
-   5.55
-  ],
   [
    "2025-10-09",
    6.3,
@@ -270,20 +265,25 @@
    "2026-10-01",
    7.28,
    6.6
+  ],
+  [
+   "2026-10-08",
+   7.4,
+   6.73
   ]
  ],
  "obmmi": {
   "source": "Optimal Blue Mortgage Market Indices (OBMMI), via FRED",
   "copyright": "Copyright Optimal Blue, LLC",
   "link": "https://www2.optimalblue.com/obmmi",
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "types": {
    "conv30": {
     "label": "30-year conventional",
     "series": "OBMMIC30YF",
-    "date": "2026-10-06",
-    "rate": 7.45,
-    "prev": 7.34,
+    "date": "2026-10-07",
+    "rate": 7.43,
+    "prev": 7.39,
     "history": [
      [
       "2025-10-10",
@@ -494,17 +494,17 @@
       7.38
      ],
      [
-      "2026-10-06",
-      7.45
+      "2026-10-07",
+      7.43
      ]
     ]
    },
    "conv15": {
     "label": "15-year conventional",
     "series": "OBMMIC15YF",
-    "date": "2026-10-06",
-    "rate": 6.54,
-    "prev": 6.57,
+    "date": "2026-10-07",
+    "rate": 6.81,
+    "prev": 6.62,
     "history": [
      [
       "2025-10-10",
@@ -715,17 +715,17 @@
       6.65
      ],
      [
-      "2026-10-06",
-      6.54
+      "2026-10-07",
+      6.81
      ]
     ]
    },
    "fha30": {
     "label": "30-year FHA",
     "series": "OBMMIFHA30YF",
-    "date": "2026-10-06",
-    "rate": 7.17,
-    "prev": 7.08,
+    "date": "2026-10-07",
+    "rate": 7.21,
+    "prev": 7.09,
     "history": [
      [
       "2025-10-10",
@@ -936,17 +936,17 @@
       7.09
      ],
      [
-      "2026-10-06",
-      7.17
+      "2026-10-07",
+      7.21
      ]
     ]
    },
    "va30": {
     "label": "30-year VA",
     "series": "OBMMIVA30YF",
-    "date": "2026-10-06",
-    "rate": 7.08,
-    "prev": 7.01,
+    "date": "2026-10-07",
+    "rate": 7.13,
+    "prev": 7.08,
     "history": [
      [
       "2025-10-10",
@@ -1157,17 +1157,17 @@
       7.04
      ],
      [
-      "2026-10-06",
-      7.08
+      "2026-10-07",
+      7.13
      ]
     ]
    },
    "jumbo30": {
     "label": "30-year jumbo",
     "series": "OBMMIJUMBO30YF",
-    "date": "2026-10-06",
-    "rate": 7.39,
-    "prev": 7.56,
+    "date": "2026-10-07",
+    "rate": 7.53,
+    "prev": 7.36,
     "history": [
      [
       "2025-10-10",
@@ -1378,8 +1378,8 @@
       7.5
      ],
      [
-      "2026-10-06",
-      7.39
+      "2026-10-07",
+      7.53
      ]
     ]
    }
