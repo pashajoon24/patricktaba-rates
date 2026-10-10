@@ -1,0 +1,19 @@
+# Checks Rate Watch targets against today's rates and sends hits to Zapier.
+# Runs 30 minutes after the daily rates update (update-rates.yml at 21:00 UTC).
+name: Rate Watch alerts
+on:
+  schedule:
+    - cron: "30 21 * * *"   # 2:30 pm Pacific (standard time)
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Compare targets with today's rates
+        env:
+          WATCHERS_CSV_URL: ${{ secrets.WATCHERS_CSV_URL }}
+          ZAPIER_HOOK_URL: ${{ secrets.ZAPIER_HOOK_URL }}
+        run: python3 rate_watch.py
