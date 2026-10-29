@@ -276,14 +276,14 @@
   "source": "Optimal Blue Mortgage Market Indices (OBMMI), via FRED",
   "copyright": "Copyright Optimal Blue, LLC",
   "link": "https://www2.optimalblue.com/obmmi",
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "types": {
    "conv30": {
     "label": "30-year conventional",
     "series": "OBMMIC30YF",
-    "date": "2026-10-26",
-    "rate": 7.2,
-    "prev": 7.32,
+    "date": "2026-10-27",
+    "rate": 7.22,
+    "prev": 7.33,
     "history": [
      [
       "2025-10-31",
@@ -494,17 +494,17 @@
       7.23
      ],
      [
-      "2026-10-26",
-      7.2
+      "2026-10-27",
+      7.22
      ]
     ]
    },
    "conv15": {
     "label": "15-year conventional",
     "series": "OBMMIC15YF",
-    "date": "2026-10-26",
-    "rate": 6.53,
-    "prev": 6.5,
+    "date": "2026-10-27",
+    "rate": 6.58,
+    "prev": 6.52,
     "history": [
      [
       "2025-10-31",
@@ -715,17 +715,17 @@
       6.72
      ],
      [
-      "2026-10-26",
-      6.53
+      "2026-10-27",
+      6.58
      ]
     ]
    },
    "fha30": {
     "label": "30-year FHA",
     "series": "OBMMIFHA30YF",
-    "date": "2026-10-26",
-    "rate": 7.03,
-    "prev": 7.12,
+    "date": "2026-10-27",
+    "rate": 7.04,
+    "prev": 7.13,
     "history": [
      [
       "2025-10-31",
@@ -936,17 +936,17 @@
       7.08
      ],
      [
-      "2026-10-26",
-      7.03
+      "2026-10-27",
+      7.04
      ]
     ]
    },
    "va30": {
     "label": "30-year VA",
     "series": "OBMMIVA30YF",
-    "date": "2026-10-26",
-    "rate": 6.87,
-    "prev": 6.94,
+    "date": "2026-10-27",
+    "rate": 6.92,
+    "prev": 6.95,
     "history": [
      [
       "2025-10-31",
@@ -1157,17 +1157,17 @@
       6.9
      ],
      [
-      "2026-10-26",
-      6.87
+      "2026-10-27",
+      6.92
      ]
     ]
    },
    "jumbo30": {
     "label": "30-year jumbo",
     "series": "OBMMIJUMBO30YF",
-    "date": "2026-10-26",
-    "rate": 7.27,
-    "prev": 7.51,
+    "date": "2026-10-27",
+    "rate": 7.25,
+    "prev": 7.33,
     "history": [
      [
       "2025-10-31",
@@ -1378,8 +1378,8 @@
       7.48
      ],
      [
-      "2026-10-26",
-      7.27
+      "2026-10-27",
+      7.25
      ]
     ]
    }
