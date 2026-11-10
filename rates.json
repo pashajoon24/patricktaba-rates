@@ -276,12 +276,12 @@
   "source": "Optimal Blue Mortgage Market Indices (OBMMI), via FRED",
   "copyright": "Copyright Optimal Blue, LLC",
   "link": "https://www2.optimalblue.com/obmmi",
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "types": {
    "conv30": {
     "label": "30-year conventional",
     "series": "OBMMIC30YF",
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "rate": 7.09,
     "prev": 7.15,
     "history": [
@@ -494,7 +494,7 @@
       7.15
      ],
      [
-      "2026-11-05",
+      "2026-11-06",
       7.09
      ]
     ]
@@ -502,9 +502,9 @@
    "conv15": {
     "label": "15-year conventional",
     "series": "OBMMIC15YF",
-    "date": "2026-11-05",
-    "rate": 6.41,
-    "prev": 6.52,
+    "date": "2026-11-06",
+    "rate": 6.4,
+    "prev": 6.47,
     "history": [
      [
       "2025-11-07",
@@ -715,17 +715,17 @@
       6.47
      ],
      [
-      "2026-11-05",
-      6.41
+      "2026-11-06",
+      6.4
      ]
     ]
    },
    "fha30": {
     "label": "30-year FHA",
     "series": "OBMMIFHA30YF",
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "rate": 6.89,
-    "prev": 7.04,
+    "prev": 7.0,
     "history": [
      [
       "2025-11-07",
@@ -936,7 +936,7 @@
       7.0
      ],
      [
-      "2026-11-05",
+      "2026-11-06",
       6.89
      ]
     ]
@@ -944,9 +944,9 @@
    "va30": {
     "label": "30-year VA",
     "series": "OBMMIVA30YF",
-    "date": "2026-11-05",
-    "rate": 6.71,
-    "prev": 6.79,
+    "date": "2026-11-06",
+    "rate": 6.67,
+    "prev": 6.76,
     "history": [
      [
       "2025-11-07",
@@ -1157,17 +1157,17 @@
       6.76
      ],
      [
-      "2026-11-05",
-      6.71
+      "2026-11-06",
+      6.67
      ]
     ]
    },
    "jumbo30": {
     "label": "30-year jumbo",
     "series": "OBMMIJUMBO30YF",
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "rate": 7.25,
-    "prev": 7.16,
+    "prev": 7.36,
     "history": [
      [
       "2025-11-07",
@@ -1378,7 +1378,7 @@
       7.36
      ],
      [
-      "2026-11-05",
+      "2026-11-06",
       7.25
      ]
     ]
