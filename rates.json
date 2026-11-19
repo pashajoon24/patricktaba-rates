@@ -276,14 +276,14 @@
   "source": "Optimal Blue Mortgage Market Indices (OBMMI), via FRED",
   "copyright": "Copyright Optimal Blue, LLC",
   "link": "https://www2.optimalblue.com/obmmi",
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "types": {
    "conv30": {
     "label": "30-year conventional",
     "series": "OBMMIC30YF",
-    "date": "2026-11-16",
-    "rate": 7.26,
-    "prev": 7.04,
+    "date": "2026-11-17",
+    "rate": 7.29,
+    "prev": 7.16,
     "history": [
      [
       "2025-11-21",
@@ -494,17 +494,17 @@
       7.25
      ],
      [
-      "2026-11-16",
-      7.26
+      "2026-11-17",
+      7.29
      ]
     ]
    },
    "conv15": {
     "label": "15-year conventional",
     "series": "OBMMIC15YF",
-    "date": "2026-11-16",
-    "rate": 6.65,
-    "prev": 6.54,
+    "date": "2026-11-17",
+    "rate": 6.51,
+    "prev": 6.4,
     "history": [
      [
       "2025-11-21",
@@ -715,17 +715,17 @@
       6.43
      ],
      [
-      "2026-11-16",
-      6.65
+      "2026-11-17",
+      6.51
      ]
     ]
    },
    "fha30": {
     "label": "30-year FHA",
     "series": "OBMMIFHA30YF",
-    "date": "2026-11-16",
-    "rate": 7.0,
-    "prev": 6.87,
+    "date": "2026-11-17",
+    "rate": 7.04,
+    "prev": 6.98,
     "history": [
      [
       "2025-11-21",
@@ -936,17 +936,17 @@
       7.06
      ],
      [
-      "2026-11-16",
-      7.0
+      "2026-11-17",
+      7.04
      ]
     ]
    },
    "va30": {
     "label": "30-year VA",
     "series": "OBMMIVA30YF",
-    "date": "2026-11-16",
-    "rate": 6.88,
-    "prev": 6.64,
+    "date": "2026-11-17",
+    "rate": 6.96,
+    "prev": 6.77,
     "history": [
      [
       "2025-11-21",
@@ -1157,17 +1157,17 @@
       6.94
      ],
      [
-      "2026-11-16",
-      6.88
+      "2026-11-17",
+      6.96
      ]
     ]
    },
    "jumbo30": {
     "label": "30-year jumbo",
     "series": "OBMMIJUMBO30YF",
-    "date": "2026-11-16",
-    "rate": 7.56,
-    "prev": 7.09,
+    "date": "2026-11-17",
+    "rate": 7.68,
+    "prev": 7.24,
     "history": [
      [
       "2025-11-21",
@@ -1378,8 +1378,8 @@
       7.38
      ],
      [
-      "2026-11-16",
-      7.56
+      "2026-11-17",
+      7.68
      ]
     ]
    }
