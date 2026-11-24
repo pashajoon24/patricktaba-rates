@@ -276,13 +276,13 @@
   "source": "Optimal Blue Mortgage Market Indices (OBMMI), via FRED",
   "copyright": "Copyright Optimal Blue, LLC",
   "link": "https://www2.optimalblue.com/obmmi",
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "types": {
    "conv30": {
     "label": "30-year conventional",
     "series": "OBMMIC30YF",
-    "date": "2026-11-19",
-    "rate": 7.29,
+    "date": "2026-11-20",
+    "rate": 7.21,
     "prev": 7.25,
     "history": [
      [
@@ -494,17 +494,17 @@
       7.25
      ],
      [
-      "2026-11-19",
-      7.29
+      "2026-11-20",
+      7.21
      ]
     ]
    },
    "conv15": {
     "label": "15-year conventional",
     "series": "OBMMIC15YF",
-    "date": "2026-11-19",
-    "rate": 6.69,
-    "prev": 6.47,
+    "date": "2026-11-20",
+    "rate": 6.7,
+    "prev": 6.43,
     "history": [
      [
       "2025-11-21",
@@ -715,17 +715,17 @@
       6.43
      ],
      [
-      "2026-11-19",
-      6.69
+      "2026-11-20",
+      6.7
      ]
     ]
    },
    "fha30": {
     "label": "30-year FHA",
     "series": "OBMMIFHA30YF",
-    "date": "2026-11-19",
-    "rate": 7.02,
-    "prev": 7.03,
+    "date": "2026-11-20",
+    "rate": 7.05,
+    "prev": 7.06,
     "history": [
      [
       "2025-11-21",
@@ -936,17 +936,17 @@
       7.06
      ],
      [
-      "2026-11-19",
-      7.02
+      "2026-11-20",
+      7.05
      ]
     ]
    },
    "va30": {
     "label": "30-year VA",
     "series": "OBMMIVA30YF",
-    "date": "2026-11-19",
-    "rate": 6.91,
-    "prev": 6.82,
+    "date": "2026-11-20",
+    "rate": 6.9,
+    "prev": 6.94,
     "history": [
      [
       "2025-11-21",
@@ -1157,17 +1157,17 @@
       6.94
      ],
      [
-      "2026-11-19",
-      6.91
+      "2026-11-20",
+      6.9
      ]
     ]
    },
    "jumbo30": {
     "label": "30-year jumbo",
     "series": "OBMMIJUMBO30YF",
-    "date": "2026-11-19",
-    "rate": 7.15,
-    "prev": 7.29,
+    "date": "2026-11-20",
+    "rate": 7.46,
+    "prev": 7.38,
     "history": [
      [
       "2025-11-21",
@@ -1378,8 +1378,8 @@
       7.38
      ],
      [
-      "2026-11-19",
-      7.15
+      "2026-11-20",
+      7.46
      ]
     ]
    }
